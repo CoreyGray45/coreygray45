@@ -1,12 +1,12 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Corey Gray</h1>
-<h3 align="center">A passionate person entering Cyber Security</h3>
+<h3 align="center">Learning from mistakes and growing from failures</h3>
 
-- 🌱 I’m currently learning **Bash, Python, and Windows registry**
+- 🌱 I’m currently trying to master **Bash, Python, and Windows registry**
 
-- 📫 How to reach me **clg_2006@hotmail.com**
+- 📫 How to reach me **coreygray01@protonmail.com**
 
-- ⚡ Fun fact **I love learning new things!**
+- ⚡ Fun fact **I learned how to type and passed security plus in the same three months!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
